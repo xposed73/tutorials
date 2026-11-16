@@ -519,29 +519,7 @@ If a sample prompt fails:
 
 ---
 
-## 10. Prerequisites Narration
-
-Use the following narration when introducing the tutorial:
-
-"Before we begin, you'll need a few tools installed on your system.
-
-First, uv, which we'll use to manage Python tools and dependencies.
-
-Second, Git, which we'll need to install vMLX from its GitHub compatibility branch.
-
-Third, Hugging Face Hub, which gives us access to the model files.
-
-Next is vMLX, our inference engine for running the model locally on Apple Silicon.
-
-And finally, Pengy, our graphical chat interface, which we'll also install using uv.
-
-You'll also need an Apple Silicon Mac with enough unified memory and storage to run the model.
-
-Once we have these prerequisites ready, we can start installing and configuring everything."
-
----
-
-## 11. Project Links
+## 10. Project Links
 
 | Project | Official Resource |
 |---|---|
