@@ -70,6 +70,11 @@ If authentication is required, run:
 hf auth login
 ```
 
+Download the model
+```bash
+hf download digiflow/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-MLX-4bit
+```
+
 Follow the repository's access requirements if authentication is needed.
 
 ## 4. Install vMLX
